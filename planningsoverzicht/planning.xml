@@ -1,0 +1,2812 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sh>
+	<ro i="2">
+		<ce co="A" t="String">(needed for XML)</ce>
+		<ce co="B" t="String"></ce>
+		<ce co="C" t="String">Balthasar Boma</ce>
+		<ce co="D" t="String">Marc Vertongen</ce>
+		<ce co="E" t="String">Bieke Crucke</ce>
+		<ce co="F" t="String">Dimitri De Tremmerie</ce>
+		<ce co="G" t="String">Xavier Waterslaeghers</ce>
+	</ro>
+	<ro i="3">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+		<ce co="C" t="String">2024</ce>
+		<ce co="D" t="String">2024</ce>
+		<ce co="E" t="String">2024</ce>
+		<ce co="F" t="String">2024</ce>
+		<ce co="G" t="String">2024</ce>
+	</ro>
+	<ro i="4">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">1/1/2024</ce>
+		<ce co="C" t="String">FEESTDAG : Nieuwjaar</ce>
+		<ce co="D" t="String">FEESTDAG : Nieuwjaar</ce>
+		<ce co="E" t="String">FEESTDAG : Nieuwjaar</ce>
+		<ce co="F" t="String">FEESTDAG : Nieuwjaar</ce>
+		<ce co="G" t="String">FEESTDAG : Nieuwjaar</ce>
+	</ro>
+	<ro i="5">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">2/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="6">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">3/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="7">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">4/1/2024</ce>
+		<ce co="C" t="String">Ziek</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="8">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">5/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="9">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+		<ce co="C" t="String"></ce>
+	</ro>
+	<ro i="10">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">8/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="11">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">9/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="12">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">10/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="13">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">11/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="14">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">12/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="15">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+		<ce co="C" t="String"></ce>
+	</ro>
+	<ro i="16">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">15/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Ziek</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="17">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">16/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="18">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">17/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="19">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">18/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="20">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">19/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="21">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="22">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">22/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="23">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">23/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="24">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">24/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="25">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">25/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="26">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">26/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="27">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="28">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">29/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="29">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">30/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="30">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">31/1/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="31">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">1/2/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="32">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">2/2/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="33">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="34">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">5/2/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="35">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">6/2/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="36">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">7/2/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="37">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">8/2/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="38">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">9/2/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="39">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="40">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">12/2/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="41">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">13/2/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="42">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">14/2/2024</ce>
+		<ce co="C" t="String">Telenet</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="43">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">15/2/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="44">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">16/2/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="45">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="46">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">19/2/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="47">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">20/2/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="48">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">21/2/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="49">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">22/2/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="50">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">23/2/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="51">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="52">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">26/2/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="53">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">27/2/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="54">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">28/2/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="55">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">29/2/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="56">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">1/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="57">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="58">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">4/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="59">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">5/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="60">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">6/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Proximus</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="61">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">7/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="62">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">8/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="63">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="64">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">11/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="65">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">12/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Gereserveerd</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="66">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">13/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Gereserveerd</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="67">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">14/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="68">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">15/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="69">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="70">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">18/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="71">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">19/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Gereserveerd</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="72">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">20/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Gereserveerd</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="73">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">21/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="74">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">22/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="75">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="76">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">25/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">Telenet/(Bon 215 dagen OP)</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="77">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">26/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="78">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">27/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="79">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">28/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="80">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">29/3/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="81">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="82">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">1/4/2024</ce>
+		<ce co="C" t="String">FEESTDAG : Paasmaandag</ce>
+		<ce co="D" t="String">FEESTDAG : Paasmaandag</ce>
+		<ce co="E" t="String">FEESTDAG : Paasmaandag</ce>
+		<ce co="F" t="String">FEESTDAG : Paasmaandag</ce>
+		<ce co="G" t="String">FEESTDAG : Paasmaandag</ce>
+	</ro>
+	<ro i="83">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">2/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="84">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">3/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="85">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">4/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="86">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">5/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="87">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="88">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">8/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="89">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">9/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="90">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">10/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="91">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">11/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="92">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">12/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="93">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="94">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">15/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="95">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">16/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="96">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">17/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="97">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">18/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="98">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">19/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="99">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="100">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">22/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="101">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">23/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="102">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">24/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="103">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">25/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="104">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">26/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="105">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="106">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">29/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="107">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">30/4/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="108">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">1/5/2024</ce>
+		<ce co="C" t="String">FEESTDAG : Dag Van de arbeid</ce>
+		<ce co="D" t="String">FEESTDAG : Dag Van de arbeid</ce>
+		<ce co="E" t="String">FEESTDAG : Dag Van de arbeid</ce>
+		<ce co="F" t="String">FEESTDAG : Dag Van de arbeid</ce>
+		<ce co="G" t="String">FEESTDAG : Dag Van de arbeid</ce>
+	</ro>
+	<ro i="109">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">2/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="110">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">3/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="111">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="112">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">6/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="113">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">7/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="114">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">8/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="115">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">9/5/2024</ce>
+		<ce co="C" t="String">FEESTDAG : O.H.Hemelvaart</ce>
+		<ce co="D" t="String">FEESTDAG : O.H.Hemelvaart</ce>
+		<ce co="E" t="String">FEESTDAG : O.H.Hemelvaart</ce>
+		<ce co="F" t="String">FEESTDAG : O.H.Hemelvaart</ce>
+		<ce co="G" t="String">FEESTDAG : O.H.Hemelvaart</ce>
+	</ro>
+	<ro i="116">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">10/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="117">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="118">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">13/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="119">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">14/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="120">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">15/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="121">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">16/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="122">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">17/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">Telenet/(Bon 144 dagen OP)</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="123">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="124">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">20/5/2024</ce>
+		<ce co="C" t="String">FEESTDAG : Pinkstermaandag</ce>
+		<ce co="D" t="String">FEESTDAG : Pinkstermaandag</ce>
+		<ce co="E" t="String">FEESTDAG : Pinkstermaandag</ce>
+		<ce co="F" t="String">FEESTDAG : Pinkstermaandag</ce>
+		<ce co="G" t="String">FEESTDAG : Pinkstermaandag</ce>
+	</ro>
+	<ro i="125">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">21/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="126">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">22/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="127">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">23/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="128">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">24/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="129">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="130">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">27/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="131">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">28/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="132">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">29/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="133">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">30/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="134">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">31/5/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="135">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="136">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">3/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="137">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">4/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="138">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">5/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="139">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">6/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="140">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">7/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="141">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="142">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">10/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="143">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">11/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="144">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">12/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="145">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">13/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="146">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">14/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="147">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="148">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">17/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="149">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">18/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="150">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">19/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="151">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">20/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="152">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">21/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="153">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="154">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">24/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="155">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">25/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="156">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">26/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="157">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">27/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="158">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">28/6/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="159">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="160">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">1/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="161">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">2/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="162">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">3/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="163">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">4/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="164">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">5/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="165">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="166">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">8/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="167">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">9/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="168">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">10/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="169">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">11/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="170">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">12/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="171">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="172">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">15/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="173">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">16/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="174">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">17/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="175">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">18/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="176">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">19/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="177">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="178">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">22/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="179">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">23/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="180">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">24/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="181">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">25/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="182">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">26/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="183">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="184">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">29/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="185">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">30/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="186">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">31/7/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">Mobile Vikings/(Bon OP)</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="187">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">1/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="188">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">2/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="189">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="190">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">5/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="191">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">6/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="192">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">7/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="193">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">8/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="194">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">9/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="195">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="196">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">12/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="197">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">13/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="198">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">14/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="199">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">15/8/2024</ce>
+		<ce co="C" t="String">FEESTDAG : O.L.V.Hemelvaart</ce>
+		<ce co="D" t="String">FEESTDAG : O.L.V.Hemelvaart</ce>
+		<ce co="E" t="String">FEESTDAG : O.L.V.Hemelvaart</ce>
+		<ce co="F" t="String">FEESTDAG : O.L.V.Hemelvaart</ce>
+		<ce co="G" t="String">FEESTDAG : O.L.V.Hemelvaart</ce>
+	</ro>
+	<ro i="200">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">16/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="201">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="202">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">19/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="203">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">20/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="204">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">21/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="205">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">22/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="206">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">23/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="207">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="208">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">26/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="209">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">27/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="210">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">28/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="211">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">29/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="212">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">30/8/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="213">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="214">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">2/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="215">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">3/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="216">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">4/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="217">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">5/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="218">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">6/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="219">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="220">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">9/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="221">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">10/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="222">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">11/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="223">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">12/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="224">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">13/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="225">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="226">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">16/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="227">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">17/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="228">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">18/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="229">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">19/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="230">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">20/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="231">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="232">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">23/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="233">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">24/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="234">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">25/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="235">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">26/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="236">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">27/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="237">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="238">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">30/9/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="239">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">1/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="240">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">2/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="241">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">3/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="242">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">4/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="243">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="244">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">7/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="245">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">8/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="246">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">9/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="247">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">10/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="248">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">11/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="249">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="250">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">14/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="251">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">15/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="252">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">16/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="253">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">17/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="254">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">18/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="255">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="256">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">21/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="257">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">22/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="258">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">23/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="259">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">24/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="260">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">25/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="261">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="262">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">28/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="263">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">29/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="264">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">30/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="265">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">31/10/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="266">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">1/11/2024</ce>
+		<ce co="C" t="String">FEESTDAG : Allerheiligen</ce>
+		<ce co="D" t="String">FEESTDAG : Allerheiligen</ce>
+		<ce co="E" t="String">FEESTDAG : Allerheiligen</ce>
+		<ce co="F" t="String">FEESTDAG : Allerheiligen</ce>
+		<ce co="G" t="String">FEESTDAG : Allerheiligen</ce>
+	</ro>
+	<ro i="267">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="268">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">4/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="269">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">5/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="270">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">6/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="271">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">7/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="272">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">8/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="273">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="274">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">11/11/2024</ce>
+		<ce co="C" t="String">FEESTDAG : Wapenstilstand</ce>
+		<ce co="D" t="String">FEESTDAG : Wapenstilstand</ce>
+		<ce co="E" t="String">FEESTDAG : Wapenstilstand</ce>
+		<ce co="F" t="String">FEESTDAG : Wapenstilstand</ce>
+		<ce co="G" t="String">FEESTDAG : Wapenstilstand</ce>
+	</ro>
+	<ro i="275">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">12/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="276">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">13/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="277">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">14/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="278">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">15/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="279">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="280">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">18/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="281">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">19/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="282">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">20/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="283">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">21/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="284">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">22/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="285">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="286">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">25/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="287">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">26/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="288">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">27/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="289">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">28/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="290">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">29/11/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="291">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="292">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">2/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="293">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">3/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="294">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">4/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="295">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">5/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="296">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">6/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="297">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="298">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">9/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="299">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">10/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="300">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">11/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="301">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">12/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="302">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">13/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="303">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="304">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">16/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="305">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">17/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="306">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">18/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="307">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">19/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="308">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">20/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="309">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="310">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">23/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="311">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">24/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="312">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">25/12/2024</ce>
+		<ce co="C" t="String">FEESTDAG : Kerstmis</ce>
+		<ce co="D" t="String">FEESTDAG : Kerstmis</ce>
+		<ce co="E" t="String">FEESTDAG : Kerstmis</ce>
+		<ce co="F" t="String">FEESTDAG : Kerstmis</ce>
+		<ce co="G" t="String">FEESTDAG : Kerstmis</ce>
+	</ro>
+	<ro i="313">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">26/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="314">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">27/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="315">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="316">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">30/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="317">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">31/12/2024</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="318">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">1/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="319">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">2/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="320">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">3/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="321">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="322">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">6/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="323">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">7/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="324">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">8/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="325">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">9/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="326">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">10/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="327">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="328">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">13/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="329">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">14/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="330">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">15/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="331">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">16/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="332">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">17/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="333">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="334">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">20/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="335">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">21/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="336">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">22/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="337">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">23/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="338">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">24/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="339">
+		<ce co="A" t="String"></ce>
+		<ce co="B" t="String"></ce>
+	</ro>
+	<ro i="340">
+		<ce co="A" t="String">maandag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">27/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="341">
+		<ce co="A" t="String">dinsdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">28/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="342">
+		<ce co="A" t="String">woensdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">29/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="343">
+		<ce co="A" t="String">donderdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">30/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+	<ro i="344">
+		<ce co="A" t="String">vrijdag</ce>
+		<ce co="B" t="Date" fo="d/M/yyyy">31/1/2025</ce>
+		<ce co="C" t="String">FREE</ce>
+		<ce co="D" t="String">FREE</ce>
+		<ce co="E" t="String">FREE</ce>
+		<ce co="F" t="String">FREE</ce>
+		<ce co="G" t="String">FREE</ce>
+	</ro>
+</sh>
